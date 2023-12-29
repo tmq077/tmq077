@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Below are a list of data science projects I have completed. Click on the links to find out more! 
+## Below are a list of data science projects I have completed. Click on the project title to find out more! 
 
 [`"DonateFoodGoWhere" - Chatbot for donating specific food items in Singapore`](https://github.com/tmq077/GA_Capstone_Project)
 <br>To help
