@@ -11,3 +11,8 @@
 <br>•	Communication breakdown is one common reason for divorce. 
 <br>•	This project aims to help couples strengthen communication through recognizing and understanding their attachment styles, by using Natural Language Processing (NLP) methodologies, as well as classifier models such as Logistic Regression and Naive Bayes to learn from data web scraped from two subreddits - Anxious Attachment and Avoidant Attachment.
 <br>•	A self-help tool is developed using Logistic Regression with 90% accuracy, allowing users to quickly identify both theirs and their partner’s attachment style by answering four questions, and gain insights to improve communication through the recommended resources.
+
+[`Analysis and Prediction of HDB Resale Flat Price`]
+<br>•	Affordable public housing has become a concern to new homeowners with rising resale flat prices. 
+<br>•	This project aims to help homebuyers plan their finances through predicting resale flat prices, by identifying factors out of 76 features affecting prices using exploratory data analysis and correlation analysis, and regression models with regularization techniques. 
+<br>•	A HDB resale price calculator is developed using Linear Regression with 9 features, achieving R2 of 0.89 (the closer to 1, the better the performance), allowing potential homebuyers to easily predict the price of their desired resale flat. 
