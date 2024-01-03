@@ -9,10 +9,15 @@
 
 [`A self-help tool for couples to understand their attachment style`](https://github.com/tmq077/GA_Project_3)
 <br>•	Communication breakdown is one common reason for divorce. 
-<br>•	This project aims to help couples strengthen communication through recognizing and understanding their attachment styles, by using Natural Language Processing (NLP) methodologies, as well as classifier models such as Logistic Regression and Naive Bayes to learn from data web scraped from two subreddits - Anxious Attachment and Avoidant Attachment.
+<br>•	This project aims to help couples strengthen communication through recognizing and understanding their attachment styles, by using Natural Language Processing (NLP) methodologies, as well as classification models such as Logistic Regression and Naive Bayes to learn from data web scraped from two subreddits - Anxious Attachment and Avoidant Attachment.
 <br>•	A self-help tool is developed using Logistic Regression with 90% accuracy, allowing users to quickly identify both theirs and their partner’s attachment style by answering four questions, and gain insights to improve communication through the recommended resources.
 
-[`Analysis and Prediction of HDB Resale Flat Price`]
+[`Analysis and Prediction of HDB Resale Flat Price`](https://github.com/tmq077/GA_Project_2)
 <br>•	Affordable public housing has become a concern to new homeowners with rising resale flat prices. 
 <br>•	This project aims to help homebuyers plan their finances through predicting resale flat prices, by identifying factors out of 76 features affecting prices using exploratory data analysis and correlation analysis, and regression models with regularization techniques. 
 <br>•	A HDB resale price calculator is developed using Linear Regression with 9 features, achieving R2 of 0.89 (the closer to 1, the better the performance), allowing potential homebuyers to easily predict the price of their desired resale flat. 
+
+[`Snack-O-Meter: a tool to inform consumers on consumption of biscuits`](https://github.com/tmq077/GA_Project_4)
+<br>•	The National Population Health Survey highlighted the need to focus on healthy diets, and the nutritional values in snacks has not been widely discussed.
+<br>•	This project aims to help consumers make healthier choices of biscuits based on three nutrients, by using classification models such as Logistic Regression, Decision Tree and Random Forest.
+<br>•	A user-friendly tool is developed using Decision Tree with accuracy greater than 0.9, helping consumers identify if the biscuit of their choice is healthy or not, and recommend healthier alternatives.
